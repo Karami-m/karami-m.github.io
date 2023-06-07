@@ -3,16 +3,22 @@ I received my PhD in statistical machine learning from the University of Alberta
 I worked on diverse fields of AI/ML including deep generative models on different data modalities such as image and graphs.
 
 # Background and Research Interests
-- Generative Models
-- Graph Neural Networks
-- Probabilistic Deep Learning
-- Multi-Modal/Multi-View Learning
+
+- Generative Models 
+- Graph Neural Networks   
+- NLP and Language Models
 - Computer Vision
-- NLP and Sequence Modeling
-- Representation Learning
+- Multi-Modal/Multi-View Learning 
 - Federated Learning
 - Reinforcement Learning
 - Bayesian Optimization
+
+<!-- | Generative Models    | NLP and Sequence Modeling |
+| -------- | ------- |
+| Graph Neural Networks | Representation Learning  |
+| Probabilistic Deep Learning | Federated Learning |
+| Computer Vision | Reinforcement Learning|
+| Multi-Modal/Multi-View Learning | Bayesian Optimization| -->
 
 # Publications and Research
 ### Graph Generative Networks
