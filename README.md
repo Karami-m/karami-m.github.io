@@ -1,6 +1,6 @@
 I am machine learning scientist working at Alexa, Amazon. 
 I received my PhD in statistical machine learning from the University of Alberta, Canada, under supervision of Prof. Dale Shuurmans.
-I worked on diverse fields of AI/ML
+I worked on diverse fields of AI/ML including deep generative models on different data modalities such as image and graphs.
 
 # Background and Research Interests
 - Generative Models
