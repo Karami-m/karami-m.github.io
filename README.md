@@ -26,14 +26,14 @@ I worked on diverse fields of AI/ML including deep generative models on differen
 <summary> Abstract </summary>
   Most real-world graphs exhibit a hierarchical structure, which is often overlooked
 by existing graph generation methods. To address this limitation, we propose a
-novel graph generative network that captures **the hierarchical nature of graphs**
-and successively **generates the graph sub-structures in a coarse-to-fine fashion**. At
+novel graph generative network that captures the hierarchical nature of graphs
+and successively generates the graph sub-structures in a coarse-to-fine fashion. At
 each level of hierarchy, this model generates communities in parallel, followed by
 the prediction of cross-edges between communities using a separate model. This
-modular approach results in a **highly scalable graph generative network**. 
+modular approach results in a highly scalable graph generative network. 
   
   Moreover, we model the output distribution of edges in the hierarchical graph with
-a _multinomial distribution_ and derive **a recursive factorization for this distribution**,
+a multinomial distribution and derive a recursive factorization for this distribution,
 enabling us to generate sub-graphs with integer-valued edge weights in an
 autoregressive approach. Empirical studies demonstrate that the proposed generative
 model can effectively capture both local and global properties of graphs
