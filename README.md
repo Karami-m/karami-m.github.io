@@ -42,7 +42,7 @@ benchmarks.
 </details>
 
 - **M. Karami**, “HiGen: Hierarchical Graph Generative Networks”, *arXiv preprint arxiv:2305.19337,* (2023).
-[paper](https://arxiv.org/abs/2305.19337)
+[paper](https://arxiv.org/abs/2305.19337) [code](https://github.com/Karami-m/HiGen_main)
 - **M. Karami**, J. Luo, “On Hierarchical Multi-Resolution Graph Generative Models ”, *arXiv preprint arxiv:2303.03293,
 Machine Learning for Drug Discovery (MLDD) Workshop ICLR 2023* (2023).
 
