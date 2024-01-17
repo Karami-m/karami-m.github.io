@@ -52,7 +52,7 @@ benchmarks. -->
 </details>
 
 - **M. Karami**, “HiGen: Hierarchical Graph Generative Networks”, *International
-Conference on Learning Representations (ICLR),* (2024).
+Conference on Learning Representations (**ICLR**),* (2024).
 [paper](https://arxiv.org/abs/2305.19337) [code](https://github.com/Karami-m/HiGen_main)
 - **M. Karami**, J. Luo, “On Hierarchical Multi-Resolution Graph Generative Models ”, *arXiv preprint arxiv:2303.03293,
 Machine Learning for Drug Discovery (MLDD) Workshop ICLR 2023* (2023).
@@ -65,7 +65,7 @@ Machine Learning for Drug Discovery (MLDD) Workshop ICLR 2023* (2023).
 Another outcome of this work was an analytic approach to designing and also better understanding the role of nonlinear gates through the lens of their contribution to latent variables’ distributions. We have shown that specific regularizers, such as sparsity, can be induced on intermediate activations by designing customized pointwise nonlinear gates.
 </details>
 
-- **M. Karami**, D. Schuurmans, J. Sohl-Dickstein, D. Duckworth, L. Dinh, “Invertible Convolutional Flow”, *Advances in Neural Information Processing Systems (NeurIPS) 2019*, Vancouver, Canada **(spotlight presentation top 3.5%)** (2019).
+- **M. Karami**, D. Schuurmans, J. Sohl-Dickstein, D. Duckworth, L. Dinh, “Invertible Convolutional Flow”, *Advances in Neural Information Processing Systems (**NeurIPS**) 2019*, Vancouver, Canada **(spotlight presentation top 3.5%)** (2019).
 [paper](https://papers.nips.cc/paper/2019/hash/b1f62fa99de9f27a048344d55c5ef7a6-Abstract.html)
 - **M. Karami**, D. Schuurmans, J. Sohl-Dickstein, D. Duckworth, L. Dinh, “Symmetric Convolutional Flow”,
 *Workshop on Invertible Neural Nets and Normalizing Flows (INNF), ICML 2019* (2019).
@@ -86,7 +86,7 @@ Variational Autoencoders”, *arXiv preprint arxiv:2208.03409,* (2022).
   We proposed an interpretable deep generative framework for multi-view learning based on a probabilistic formulation of canonical correlation analysis (CCA). The model combines a linear multi-view layer in the latent space with deep generative networks as observation models. The proposed model decomposes the variability between views into a shared latent representation that describes the common underlying sources of variation and a set of view-specific components. We designed an efficient learning algorithm using a variational inference procedure incorporating the solution of probabilistic CCA. This also offered a flexible data fusion method in the latent space. Importantly, the proposed model can be generalized to an arbitrary number of views. An empirical analysis confirms that the proposed deep multi-view model can discover subtle relationships between multiple views and recover rich representations.
 </details>
 
-- **M. Karami**, D. Schuurmans, “Deep Probabilistic Canonical Correlation Analysis”, *AAAI
+- **M. Karami**, D. Schuurmans, “Deep Probabilistic Canonical Correlation Analysis”, * **AAAI**
 conf. on Artificial Intelligence 2021*, available on *arXiv preprint arXiv:2003.04292*, (2021).
 [paper](https://papers.nips.cc/paper/2017/hash/c2964caac096f26db222cb325aa267cb-Abstract.html)
 [code](https://github.com/Karami-m/Deep-Probabilistic-Multi-View)
@@ -100,7 +100,7 @@ Advances with Multiple Views, ECML/PKDD 2019*, Wurzburg, Germany (2019).
 </details>
 
 - **M. Karami**, M. White, D. Schuurmans, C. Szepesvari, “Multi-view Matrix Factorization for Linear Dynamical
-System Estimation”, *Advances in Neural Information Processing Systems (NIPS)*, (2017).
+System Estimation”, *Advances in Neural Information Processing Systems (**NIPS**)*, (2017).
 [paper](https://papers.nips.cc/paper/2017/hash/c2964caac096f26db222cb325aa267cb-Abstract.html)
 - **M. Karami**, M. White, D. Schuurmans, “Optimal Linear Dynamical System Identification”, *NIPS Time
 Series Workshop, Barcelona, Spain, Dec. 2016* **Best poster award** (2016).
