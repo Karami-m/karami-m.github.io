@@ -1,6 +1,10 @@
-I am machine learning scientist working at Alexa, Amazon. 
-I received my PhD in statistical machine learning from the University of Alberta, Canada, under supervision of Prof. Dale Shuurmans.
-I worked on diverse fields of AI/ML including deep generative models on different data modalities such as image and graphs.
+I am a **Machine Learning/AI Scientist** holding a PhD in **Statistical Machine Learning** with over 14 years of
+experience in research and industry. I have a strong background in various AI/ML domains, such as **Deep
+Generative Models, NLP, Computer Vision and Graph Neural Networks**. My works were published in top
+AI conferences in collaboration with leading researchers from Google Brain and DeepMind. I also have valuable
+industrial experience in deep learning, NLP, Foundation Models with proficiency in the Python, particularly
+PyTorch and TensorFlow. I possess a unique combination of problem-solving, creativity, out-of-the-box
+thinking, passion for learning, project management and strong communication skills.
 
 # Background and Research Interests
 
@@ -24,7 +28,12 @@ I worked on diverse fields of AI/ML including deep generative models on differen
 ### Graph Generative Networks
 <details>
 <summary> Abstract </summary>
-  Most real-world graphs exhibit a hierarchical structure, which is often overlooked
+  Most real-world graphs exhibit a hierarchical structure, which is often overlooked by existing graph generation methods. To address this limitation, we propose a novel graph generative network that captures the hierarchical nature of graphs and successively generates the graph sub-structures in a coarse-to-fine fashion. At each level of hierarchy, this model generates communities in parallel, followed by the prediction of cross-edges between communities using separate neural networks. This modular approach enables scalable graph generation for large and complex graphs. 
+
+  
+  Moreover, we model the output distribution of edges in the hierarchical graph with a multinomial distribution and derive a recursive factorization for this distribution. This enables us to generate community graphs with integer-valued edge weights in an autoregressive manner. Empirical studies demonstrate the effectiveness and scalability of our proposed generative model, achieving state-of-the-art performance in terms of graph quality across various benchmark datasets.
+
+<!--  Most real-world graphs exhibit a hierarchical structure, which is often overlooked
 by existing graph generation methods. To address this limitation, we propose a
 novel graph generative network that captures the hierarchical nature of graphs
 and successively generates the graph sub-structures in a coarse-to-fine fashion. At
@@ -38,10 +47,12 @@ enabling us to generate sub-graphs with integer-valued edge weights in an
 autoregressive approach. Empirical studies demonstrate that the proposed generative
 model can effectively capture both local and global properties of graphs
 and achieves state-of-the-art performance in terms of graph quality on various
-benchmarks.
+benchmarks. -->
+
 </details>
 
-- **M. Karami**, “HiGen: Hierarchical Graph Generative Networks”, *arXiv preprint arxiv:2305.19337,* (2023).
+- **M. Karami**, “HiGen: Hierarchical Graph Generative Networks”, *International
+Conference on Learning Representations (ICLR),* (2024).
 [paper](https://arxiv.org/abs/2305.19337) [code](https://github.com/Karami-m/HiGen_main)
 - **M. Karami**, J. Luo, “On Hierarchical Multi-Resolution Graph Generative Models ”, *arXiv preprint arxiv:2303.03293,
 Machine Learning for Drug Discovery (MLDD) Workshop ICLR 2023* (2023).
