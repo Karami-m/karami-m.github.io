@@ -1,6 +1,6 @@
 I am a **Machine Learning/AI Scientist** holding a PhD in **Statistical Machine Learning** with over 14 years of
 experience in research and industry. I have a strong background in various AI/ML domains, such as **Deep
-Generative Models, NLP, Computer Vision and Graph Neural Networks**. My works were published in top
+Generative Models, NLP, Computer Vision, Efficient AI, and Graph Neural Networks**. My works were published in top
 AI conferences in collaboration with leading researchers from Google Brain and DeepMind. I also have valuable
 industrial experience in deep learning, NLP, Foundation Models with proficiency in the Python, particularly
 PyTorch and TensorFlow. I possess a unique combination of problem-solving, creativity, out-of-the-box
@@ -8,9 +8,11 @@ thinking, passion for learning, project management and strong communication skil
 
 # Background and Research Interests
 
-- Generative Models 
-- Graph Neural Networks   
-- NLP and Language Models
+- Generative Models
+- NLP and Large Language Models
+- Efficient AI
+- Graph Neural Networks
+- AI for Science
 - Computer Vision
 - Multi-Modal/Multi-View Learning 
 - Federated Learning
@@ -25,6 +27,37 @@ thinking, passion for learning, project management and strong communication skil
 | Multi-Modal/Multi-View Learning | Bayesian Optimization| -->
 
 # Publications and Research
+
+### Large Language Models & Efficient Systems for ML
+<details>
+<summary> Abstract </summary>
+ In the rapidly evolving landscape of deep learning, the quest for models that
+balance expressivity with computational efficiency has never been more
+critical. This paper introduces Orchid, a novel architecture that reimagines
+sequence modeling by incorporating a new data-dependent convolution mechanism.
+Orchid is designed to address the inherent limitations of traditional attention
+mechanisms, particularly their quadratic complexity, without compromising the
+ability to capture long-range dependencies and in-context learning. At the core
+of Orchid lies the data-dependent convolution layer, which dynamically adjusts
+its kernel conditioned on input data using a dedicated conditioning neural
+network. We design two simple conditioning networks that maintain shift
+equivariance in the adaptive convolution operation. The dynamic nature of
+data-dependent convolution kernel, coupled with gating operations, grants
+Orchid high expressivity while maintaining efficiency and quasilinear
+scalability for long sequences. We rigorously evaluate Orchid across multiple
+domains, including language modeling and image classification, to showcase its
+performance and generality. Our experiments demonstrate that Orchid
+architecture not only outperforms traditional attention-based architectures
+such as BERT and Vision Transformers with smaller model sizes, but also extends
+the feasible sequence length beyond the limitations of the dense attention
+layers. This achievement represents a significant step towards more efficient
+and scalable deep learning models for sequence modeling.
+</details>
+
+- **M. Karami**, A. Ghodsi, “Orchid: Flexible and Data-Adaptive Convolution for Sequence Modeling”, *Under review* (2024).
+[paper](https://arxiv.org/abs/???)
+
+
 ### Graph Generative Networks
 <details>
 <summary> Abstract </summary>
@@ -54,8 +87,10 @@ benchmarks. -->
 - **M. Karami**, “HiGen: Hierarchical Graph Generative Networks”, *International
 Conference on Learning Representations (**ICLR**),* (2024).
 [paper](https://arxiv.org/abs/2305.19337) [code](https://github.com/Karami-m/HiGen_main)
-- **M. Karami**, J. Luo, “On Hierarchical Multi-Resolution Graph Generative Models ”, *arXiv preprint arxiv:2303.03293,
-Machine Learning for Drug Discovery (MLDD) Workshop ICLR 2023* (2023).
+<!--  - **M. Karami**, J. Luo, “On Hierarchical Multi-Resolution Graph Generative Models ”, *arXiv preprint arxiv:2303.03293,
+Machine Learning for Drug Discovery (MLDD) Workshop ICLR 2023* (2023). -->
+
+- **M. Karami**, I. Krawczuk, V. Cevher, “Multi-Resolution Graph Diffusion”, _Under Review_, (2024).
 
 ### Generative Models
 <details>
