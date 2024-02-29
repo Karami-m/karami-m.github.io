@@ -55,7 +55,7 @@ and scalable deep learning models for sequence modeling.
 </details>
 
 - **M. Karami**, A. Ghodsi, “Orchid: Flexible and Data-Adaptive Convolution for Sequence Modeling”, *Under review* (2024).
-[paper](https://arxiv.org/abs/???)
+[paper](https://arxiv.org/abs/2402.18508)
 
 
 ### Graph Generative Networks
