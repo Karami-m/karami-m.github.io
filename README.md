@@ -54,8 +54,7 @@ layers. This achievement represents a significant step towards more efficient
 and scalable deep learning models for sequence modeling.
 </details>
 
-- **M. Karami**, A. Ghodsi, “Orchid: Flexible and Data-Adaptive Convolution for Sequence Modeling”, *Under review* (2024).
-[paper](https://arxiv.org/abs/2402.18508)
+- **M. Karami**, A. Ghodsi, “Orchid: Flexible and Data-Adaptive Convolution for Sequence Modeling”, [arxiv:2402.18508](https://arxiv.org/abs/2402.18508) *Under review* (2024).
 
 
 ### Graph Generative Networks
@@ -109,11 +108,11 @@ Density Estimation”, *Workshop on Bayesian Deep Learning, NeurIPS 2018*, Montr
 
 ### Federated Learning and Privacy Preserving ML
 - H. Yu, K. Guo, M. Karami, X. Chen, G. Zhang, P. Poupart, “Federated Bayesian Neural Regression: A
-Scalable Global Federated Gaussian Process”, *arXiv preprint arxiv:2206.06357,* (2022).
+Scalable Global Federated Gaussian Process”, *arXiv preprint [arxiv:2206.06357](https://arxiv.org/abs/2206.06357),* (2022).
 - M. Hassan, Z. Zhang, k. Guo, M. Karami, G. Zhang, X. Chen, P. Poupart, “Robust One Round Federated
-Learning with Predictive Space Bayesian Inference”, *arXiv preprint arxiv:2206.09526,* (2022).
+Learning with Predictive Space Bayesian Inference”, *arXiv preprint [arxiv:2206.09526](https://arxiv.org/abs/2206.09526),* (2022).
 - D. Jiang, G. Zhang, M. Karami, X. Chen, Y. Shao, Y. Yu, “DP2-VAE: Differentially Private Pre-trained
-Variational Autoencoders”, *arXiv preprint arxiv:2208.03409,* (2022).
+Variational Autoencoders”, *arXiv preprint [arxiv:2208.03409](https://arxiv.org/abs/2208.03409) arxiv:2208.03409,* (2022).
 
 ### Deep Generative Multi-View (Multi-Modal) Learning
 <details>
@@ -138,18 +137,18 @@ Advances with Multiple Views, ECML/PKDD 2019*, Wurzburg, Germany (2019).
 System Estimation”, *Advances in Neural Information Processing Systems (**NIPS**)*, (2017).
 [paper](https://papers.nips.cc/paper/2017/hash/c2964caac096f26db222cb325aa267cb-Abstract.html)
 - **M. Karami**, M. White, D. Schuurmans, “Optimal Linear Dynamical System Identification”, *NIPS Time
-Series Workshop, Barcelona, Spain, Dec. 2016* **Best poster award** (2016).
+Series Workshop, Barcelona, Spain, Dec. 2016* **[Best poster award](https://sites.google.com/site/nipsts2016/)** (2016).
 
 ### Wireless Communications
 - **M. Karami**, A. Olfat, N. C. Beaulieu, “Pilot Symbol Parameter Optimization Based on Imperfect Channel
 State Prediction for OFDM Systems”, *IEEE Transactions on Communications, vol.61, no.6, pp.2557,2567*,
-June (2013).
+June (2013) [paper](https://ieeexplore.ieee.org/document/6487357).
 - **M. Karami** and N. C. Beaulieu, “Channel adaptive power allocation and pilot optimization for OFDM
-systems”, *IEEE Global Comm. Conf. (GLOBECOM)*, Anaheim, CA, Dec. (2012).
+systems”, *IEEE Global Comm. Conf. (GLOBECOM)*, Anaheim, CA, Dec. (2012) [paper](https://ieeexplore.ieee.org/document/6503894).
 - **M. Karami**, A. Olfat and N. C. Beaulieu, “Pilot Symbol Assisted Adaptive Modulation for OFDM Systems
-with Imperfect Channel State Information”, in Proc. *IEEE Global Comm. Conf. (GLOBECOM)*, (2010).
+with Imperfect Channel State Information”, in Proc. *IEEE Global Comm. Conf. (GLOBECOM)*, (2010) [paper](https://ieeexplore.ieee.org/document/5683722).
 - **M. Karami**, A. Olfat, “Fast Blind Adaptive Channel Shortening Using Signal Subspace”, *IEEE VTC 2008
-Spring*, Singapore, pp. 2621-2625, May (2008).
+Spring*, Singapore, pp. 2621-2625, May (2008) [paper](https://ieeexplore.ieee.org/document/4526131).
 - **M. Karami**, A. Olfat, “Fast Subspace-based Adaptive Channel Shortening for Multicarrier Systems”, *16th
 Iranian Conference on Electrical Engineering (ICEE)*, Tehran, Iran, May (2008).
 
