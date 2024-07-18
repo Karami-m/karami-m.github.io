@@ -29,6 +29,10 @@ thinking, passion for learning, project management and strong communication skil
 # Publications and Research
 
 ### Large Language Models & Efficient Systems for ML
+
+- **M. Karami**, A. Ghodsi, “Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling
+”, [arxiv:2402.18508](https://arxiv.org/abs/2402.18508) _ICLR 2024
+Workshop on Mathematical and Empirical Understanding of Foundation Models_, (2024). 
 <details>
 <summary> Abstract </summary>
  In the rapidly evolving landscape of deep learning, the quest for models that
@@ -54,8 +58,8 @@ layers. This achievement represents a significant step towards more efficient
 and scalable deep learning models for sequence modeling.
 </details>
 
-- **M. Karami**, A. Ghodsi, “Orchid: Flexible and Data-Adaptive Convolution for Sequence Modeling”, [arxiv:2402.18508](https://arxiv.org/abs/2402.18508) *Under review* (2024).
-
+- **M. Karami**, A. Behrouz, “Enhancing Sequence Modeling with Multi-Resolution State Space Models”, _ICML 2024
+Workshop on Next Generation of Sequence Modeling Architectures, (2024)_.
 
 ### Graph Generative Networks
 <details>
@@ -89,7 +93,8 @@ Conference on Learning Representations (**ICLR**),* (2024).
 <!--  - **M. Karami**, J. Luo, “On Hierarchical Multi-Resolution Graph Generative Models ”, *arXiv preprint arxiv:2303.03293,
 Machine Learning for Drug Discovery (MLDD) Workshop ICLR 2023* (2023). -->
 
-- **M. Karami**, I. Krawczuk, V. Cevher, “Multi-Resolution Graph Diffusion”, _Under Review_, (2024).
+- **M. Karami**, I. Krawczuk, V. Cevher, “Multi-Resolution Graph Diffusion”, _ICLR 2024 Workshop on Machine
+Learning for Genomics Explorations_, (2024).
 
 ### Generative Models
 <details>
