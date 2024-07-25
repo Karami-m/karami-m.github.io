@@ -6,6 +6,31 @@ industrial experience in deep learning, NLP, Foundation Models with proficiency 
 PyTorch and TensorFlow. I possess a unique combination of problem-solving, creativity, out-of-the-box
 thinking, passion for learning, project management and strong communication skills.
 
+# Work and Professional Experience
+- **Researcher**, University of Waterloo (_July 2023 - Present_)
+  - Large Language models
+  - Efficient and Scalable Systems for ML
+  - Graph Generative Networks (GGN)
+- **Applied Scientist II**, Alexa, Amazon (_Sep. 2022 - July 2023_)
+  - Research and Implementation of efficient pre-trained language models (LLM) for natural language Understanding
+(NLU) and named-entity recognition (NER).
+- **Senior Machine Learning Researcher**, Noah’s Ark Lab, Huawei (_Feb. 2021- Sep. 2022_)
+  - Graph Neural Networks (GNN)
+  - Federated and Privacy Preserving Machine Learning
+  - Leading ML-based Logic Synthesis Circuits Optimization and Compiler Optimization
+- **Guest Researcher**, AMLAB, University of Amsterdam (_Apr. 2018- Apr. 2019_)
+  - Research on Deep Generative Networks and Invertible Convolutional Flows
+- **Research assistant**, Reinforcement Learning & AI (RLAI) Lab, CS, UofA (_Jan. 2014 - Aug. 2020_)
+  - Deep Generative Models, Convolutional Normalizing Flows
+  - Deep Generative Multi-Modal/Multi-View Learning,
+  - Linear Dynamical Systems, Time Series, Convex Optimization
+- Quantum Machine Learning Program, Rotman School of Management, U of Toronto (_Sep. 2017_)
+- Deep Learning Summer School, Universite de Montreal Jun. 2017
+- Lab instructor (LI) and Teaching assistant (TA), University of Alberta (_Jan. 2011 - Dec. 2016_)
+  - Advanced Digital Logic Design (FPGA), Computer Programming
+- Research assistant, iCORE Wireless Com. Lab, ECE, UofA (_Jan. 2010 - Dec. 2013_)
+  - Adaptive resource allocation in Wireless Systems, Wireless Cognitive Radio
+
 # Background and Research Interests
 
 - Generative Models
@@ -132,7 +157,7 @@ conf. on Artificial Intelligence 2021*, available on *arXiv preprint arXiv:2003.
 - **M. Karami**, “Deep Generative Multi-view Learning”, Accepted for *the workshop Data and Machine Learning
 Advances with Multiple Views, ECML/PKDD 2019*, Wurzburg, Germany (2019).
 
-### Time Series Analysis
+### Sequence Modelling
 <details>
 <summary> Abstract </summary>
   Maximum likelihood is typically considered to be hard in this setting since latent states and transition parameters must be inferred jointly. Given that expectation-maximization does not scale and is prone to local minima, moment-matching approaches from the subspace identification literature have become standard, despite known statistical efficiency issues. In this work, we instead reconsidered likelihood maximization of LDS with generalized-linear observation models. Key to the approach was a reformulation of the LDS model as a two-view convex optimization problem that allowed us to approximate the estimation task as a form of matrix factorization, and hence apply recent global optimization techniques. Furthermore, a novel proximal mapping update was analytically derived for this two-view reformulation that significantly simplified the optimization procedure. The resulting algorithm was simple to use and flexible enough to incorporate different losses and regularizers while empirical studies demonstrated that this estimation strategy outperforms widely-used identification algorithms such as subspace identification methods, both in terms of accuracy and runtime.
