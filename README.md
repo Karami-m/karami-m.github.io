@@ -56,8 +56,10 @@ thinking, passion for learning, project management and strong communication skil
 ### Large Language Models & Efficient Systems for ML
 
 - **M. Karami**, A. Ghodsi, “Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling
-”, [arxiv:2402.18508](https://arxiv.org/abs/2402.18508) _ICLR 2024
-Workshop on Mathematical and Empirical Understanding of Foundation Models_, (2024). 
+.” In *Thirty-eighth Conference on Advances in Neural Information Processing Systems (**NeurIPS**) 2024*, Vancouver, Canada (2024).
+[paper](https://arxiv.org/abs/2402.18508) 
+<!-- [arxiv:2402.18508](https://arxiv.org/abs/2402.18508) _ICLR 2024
+Workshop on Mathematical and Empirical Understanding of Foundation Models_, (2024). --> 
 <details>
 <summary> Abstract </summary>
  In the rapidly evolving landscape of deep learning, the quest for models that
@@ -129,7 +131,7 @@ Learning for Genomics Explorations_, (2024).
 Another outcome of this work was an analytic approach to designing and also better understanding the role of nonlinear gates through the lens of their contribution to latent variables’ distributions. We have shown that specific regularizers, such as sparsity, can be induced on intermediate activations by designing customized pointwise nonlinear gates.
 </details>
 
-- **M. Karami**, D. Schuurmans, J. Sohl-Dickstein, D. Duckworth, L. Dinh, “Invertible Convolutional Flow”, *Advances in Neural Information Processing Systems (**NeurIPS**) 2019*, Vancouver, Canada **(spotlight presentation top 3.5%)** (2019).
+- **M. Karami**, D. Schuurmans, J. Sohl-Dickstein, D. Duckworth, L. Dinh, “Invertible Convolutional Flow”, In *Thirty-third Conference on Advances in Neural Information Processing Systems (**NeurIPS**) 2019*, Vancouver, Canada **(spotlight presentation top 3.5%)** (2019).
 [paper](https://papers.nips.cc/paper/2019/hash/b1f62fa99de9f27a048344d55c5ef7a6-Abstract.html)
 - **M. Karami**, D. Schuurmans, J. Sohl-Dickstein, D. Duckworth, L. Dinh, “Symmetric Convolutional Flow”,
 *Workshop on Invertible Neural Nets and Normalizing Flows (INNF), ICML 2019* (2019).
