@@ -1,12 +1,11 @@
-I am a **Machine Learning/AI Scientist** holding a PhD in **Statistical Machine Learning** with over 14 years of
-experience in research and industry. I have a strong background in various AI/ML domains, such as **Deep
-Generative Models, NLP, Computer Vision, Efficient AI, and Graph Neural Networks**. My works were published in top
-AI conferences in collaboration with leading researchers from Google Brain and DeepMind. I also have valuable
-industrial experience in deep learning, NLP, Foundation Models with proficiency in the Python, particularly
-PyTorch and TensorFlow. I possess a unique combination of problem-solving, creativity, out-of-the-box
-thinking, passion for learning, project management and strong communication skills.
+I am a **Research Scientist** at Google Research with a PhD in **Statistical Machine Learning** and over 14 years of experience in research and industry. My expertise spans various AI/ML domains, including **Large Language Models (LLMs), Deep Generative Models,  Computer Vision, Efficient AI, and Graph Neural Networks**. My work has been published in top AI conferences in collaboration with leading researchers from Google Brain and DeepMind. Additionally, I have valuable industry experience in deep learning, NLP, and Foundation Models, with proficiency in Python, particularly _PyTorch_, _JAX_, and _TensorFlow_.  
+I bring a unique combination of problem-solving, creativity, out-of-the-box thinking, a passion for learning, project management, and strong communication skills.
 
 # Work and Professional Experience
+- **Research Scientist**, Google Research (_Sep 2024 - Present_)
+  - Large Language models
+  - Efficient Systems for ML
+  - Graph Neural Networks (GNN)
 - **Researcher**, University of Waterloo (_July 2023 - Present_)
   - Large Language models
   - Efficient and Scalable Systems for ML
@@ -33,8 +32,8 @@ thinking, passion for learning, project management and strong communication skil
 
 # Background and Research Interests
 
-- Generative Models
 - NLP and Large Language Models
+- Generative Models
 - Efficient AI
 - Graph Neural Networks
 - AI for Science
