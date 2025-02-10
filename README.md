@@ -1,5 +1,4 @@
-I am a **Research Scientist** at Google Research with a PhD in **Statistical Machine Learning** and over 14 years of experience in research and industry. My expertise spans various AI/ML domains, including **Large Language Models (LLMs), Deep Generative Models,  Computer Vision, Efficient AI, and Graph Neural Networks**. My work has been published in top AI conferences in collaboration with leading researchers from Google Brain and DeepMind. Additionally, I have valuable industry experience in deep learning, NLP, and Foundation Models, with proficiency in Python, particularly _PyTorch_, _JAX_, and _TensorFlow_.  
-I bring a unique combination of problem-solving, creativity, out-of-the-box thinking, a passion for learning, project management, and strong communication skills.
+I am a **Research Scientist** at Google Research with a PhD in **Statistical Machine Learning** and over 14 years of experience in research and industry. My expertise spans various AI/ML domains, including **Large Language Models (LLMs), Deep Generative Models,  Computer Vision, Efficient AI, and Graph Neural Networks**. My work has been published in top AI conferences in collaboration with leading researchers from Google Brain and DeepMind. Additionally, I have valuable industry experience in deep learning, NLP, and Foundation Models, with proficiency in Python, particularly _PyTorch_, _JAX_, and _TensorFlow_.   I bring a unique combination of problem-solving, creativity, out-of-the-box thinking, a passion for learning, project management, and strong communication skills.
 
 # Work and Professional Experience
 - **Research Scientist**, Google Research (_Sep 2024 - Present_)
@@ -52,6 +51,14 @@ I bring a unique combination of problem-solving, creativity, out-of-the-box thin
 
 # Publications and Research
 
+### Latest Research
+
+- Pătrăucean, V., He, X.O., Heyward, J., Zhang, C., Sajjadi, M.S., Muraru, G.C., Zholus, A., **Karami, M.**, Goroshin, R., Chen, Y. and Osindero, S., “TRecViT: A Recurrent Video Transformer.” _arXiv preprint arXiv:2412.14294._ 2025 [paper](https://arxiv.org/abs/2412.14294)
+  
+- Behrouz, A., Parviz, A., **Karami, M.**, Sanford, C., Perozzi, B. and Mirrokni, V., “Best of Both Worlds: Advantages of Hybrid Graph Sequence Models.” _arXiv preprint arXiv:2411.15671._ [paper](https://arxiv.org/abs/2411.15671)
+  
+- **M. Karami**, A. Behrouz, P.Zhong, R. Pascanu, V. Mirrokni, “Enhancing Sequence Modeling with Multi-Resolution State Space Models.” _Under Review_ 2025
+
 ### Large Language Models & Efficient Systems for ML
 
 - **M. Karami**, A. Ghodsi, “Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling
@@ -84,8 +91,9 @@ layers. This achievement represents a significant step towards more efficient
 and scalable deep learning models for sequence modeling.
 </details>
 
+<!--
 - **M. Karami**, A. Behrouz, “Enhancing Sequence Modeling with Multi-Resolution State Space Models”, _ICML 2024
-Workshop on Next Generation of Sequence Modeling Architectures, (2024)_.
+Workshop on Next Generation of Sequence Modeling Architectures, (2024)_.  -->
 
 ### Graph Generative Networks
 <details>
