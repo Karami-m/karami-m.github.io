@@ -1,4 +1,4 @@
-I am a **Research Scientist** at Google Research with a PhD in **Statistical Machine Learning** and over 14 years of experience in research and industry. My expertise spans various AI/ML domains, including **Large Language Models (LLMs), Deep Generative Models,  Computer Vision, Efficient AI, and Graph Neural Networks**. My work has been published in top AI conferences in collaboration with leading researchers from Google Brain and DeepMind. Additionally, I have valuable industry experience in deep learning, NLP, and Foundation Models, with proficiency in Python, particularly _PyTorch_, _JAX_, and _TensorFlow_.   I bring a unique combination of problem-solving, creativity, out-of-the-box thinking, a passion for learning, project management, and strong communication skills.
+I am a **Research Scientist at Google Research** with a PhD in **Statistical Machine Learning** and over 14 years of experience in research and industry. My expertise spans various AI/ML domains, including **Large Language Models (LLMs), Deep Generative Models,  Computer Vision, Efficient AI, and Graph Neural Networks**. My work has been published in top AI conferences in collaboration with leading researchers from Google Brain and DeepMind. Additionally, I have valuable industry experience in deep learning, NLP, and Foundation Models, with proficiency in Python, particularly _PyTorch_, _JAX_, and _TensorFlow_.   I bring a unique combination of problem-solving, creativity, out-of-the-box thinking, a passion for learning, project management, and strong communication skills.
 
 # Work and Professional Experience
 - **Research Scientist**, Google Research (_Sep 2024 - Present_)
@@ -6,6 +6,7 @@ I am a **Research Scientist** at Google Research with a PhD in **Statistical Mac
   - Efficient Systems for ML
   - Graph Neural Networks (GNN)
 - **Researcher**, University of Waterloo (_July 2023 - Present_)
+  - Diffusion Language Models
   - Large Language models
   - Efficient and Scalable Systems for ML
   - Graph Generative Networks (GGN)
@@ -32,6 +33,7 @@ I am a **Research Scientist** at Google Research with a PhD in **Statistical Mac
 # Background and Research Interests
 
 - NLP and Large Language Models
+- Diffusion Language Models
 - Generative Models
 - Efficient AI
 - Graph Neural Networks
@@ -53,11 +55,17 @@ I am a **Research Scientist** at Google Research with a PhD in **Statistical Mac
 
 ### Latest Research
 
+- **M. Karami**, V. Mirrokni, “Lattice: Learning to Efficiently Compress the Memory"  _Under Review_ [arXiv Preprint](https://arxiv.org/abs/2504.05646) 2025
+
+- **M. Karami**, A. Ghodsi, “Auto-Regressive Masked Diffusion Model" _Under Review_ 2025
+
+- Behrouz, A., Parviz, A., **Karami, M.**, Sanford, C., Perozzi, B. and Mirrokni, V., “Best of Both Worlds: Advantages of Hybrid Graph Sequence Models.” _42nd Int. Conf. on Machine Learning (ICML 2025)_ [paper](https://arxiv.org/abs/2411.15671)
+
+- **M. Karami**, A. Behrouz, P.Kacham, V. Mirrokni, “Trellis: Learning to Compress Key-Value Memory in Attention Models.” _Conference on Language Modeling (COLM)_ 2025
+
+- **M. Karami**, A. Behrouz, P.Zhong, R. Pascanu, V. Mirrokni, “Enhancing Sequence Modeling with Multi-Resolution State Space Models.” _Conference on Language Modeling (COLM)_ 2025
+
 - Pătrăucean, V., He, X.O., Heyward, J., Zhang, C., Sajjadi, M.S., Muraru, G.C., Zholus, A., **Karami, M.**, Goroshin, R., Chen, Y. and Osindero, S., “TRecViT: A Recurrent Video Transformer.” _arXiv preprint arXiv:2412.14294._ 2025 [paper](https://arxiv.org/abs/2412.14294)
-  
-- Behrouz, A., Parviz, A., **Karami, M.**, Sanford, C., Perozzi, B. and Mirrokni, V., “Best of Both Worlds: Advantages of Hybrid Graph Sequence Models.” _arXiv preprint arXiv:2411.15671._ [paper](https://arxiv.org/abs/2411.15671)
-  
-- **M. Karami**, A. Behrouz, P.Zhong, R. Pascanu, V. Mirrokni, “Enhancing Sequence Modeling with Multi-Resolution State Space Models.” _Under Review_ 2025
 
 ### Large Language Models & Efficient Systems for ML
 
